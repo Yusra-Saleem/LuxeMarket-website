@@ -59,7 +59,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-muted-foreground/20 text-center">
-          <p>&copy; 2023 LuxeMarket. All rights reserved.</p>
+          <p>&copy; 2024 LuxeMarket-by YUSRA SALEEM. All rights reserved.</p>
         </div>
       </div>
     </footer>
